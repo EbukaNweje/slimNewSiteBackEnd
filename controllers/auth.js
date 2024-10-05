@@ -380,7 +380,7 @@ exports.AdminAproveEmailSand = async (req, res, next) =>{
                         <td style="padding: 10px;">
                             <div class="contact-info">
                                 <p><img src="https://i.ibb.co/JHCPcsm/Call.png" alt="" style="width: 20px;"> +1 504-332-9455</p>
-                                <p><img src="https://i.ibb.co/X8FBvY8/Container.png" alt="" style="width: 20px;"> support@Swiftearn Prime.com</p>
+                                <p><img src="https://i.ibb.co/X8FBvY8/Container.png" alt="" style="width: 20px;"> support@Trade Bitpay.com</p>
                                 <p><img src="https://i.ibb.co/1JTGL6y/loc.png" alt="" style="width: 20px;"> 18 Eastbourne Rd, United Kingdom</p>
                             </div>
                         </td>
@@ -388,7 +388,7 @@ exports.AdminAproveEmailSand = async (req, res, next) =>{
                     <tr>
                         <td style="padding: 20px 0;">
                             <img src="https://i.ibb.co/KKGS4Cw/footer-logo.png" alt="">
-                            <h1 style="color: #eb6a07; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Swiftearn Prime</h1>
+                            <h1 style="color: #eb6a07; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Trade Bitpay</h1>
                         </td>
                     </tr>
                 </table>
@@ -408,7 +408,7 @@ exports.AdminAproveEmailSand = async (req, res, next) =>{
                     </div>
                     <div class="footer-info">
                         <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                        <p>© Copyright 2024 Swiftearn Prime. All Rights Reserved.</p>
+                        <p>© Copyright 2024 Trade Bitpay. All Rights Reserved.</p>
                     </div>
                 </div>
             </div>
@@ -542,7 +542,7 @@ exports.signupEmailSand = async (req, res, next) =>{
                         <td style="padding: 10px;">
                             <div class="contact-info">
                                 <p><img src="https://i.ibb.co/JHCPcsm/Call.png" alt="" style="width: 20px;"> +1 504-332-9455</p>
-                                <p><img src="https://i.ibb.co/X8FBvY8/Container.png" alt="" style="width: 20px;"> support@Swiftearn Prime.com</p>
+                                <p><img src="https://i.ibb.co/X8FBvY8/Container.png" alt="" style="width: 20px;"> support@Trade Bitpay.com</p>
                                 <p><img src="https://i.ibb.co/1JTGL6y/loc.png" alt="" style="width: 20px;"> 18 Eastbourne Rd, United Kingdom</p>
                             </div>
                         </td>
@@ -550,7 +550,7 @@ exports.signupEmailSand = async (req, res, next) =>{
                     <tr>
                         <td style="padding: 20px 0;">
                             <img src="https://i.ibb.co/KKGS4Cw/footer-logo.png" alt="">
-                            <h1 style="color: #eb6a07; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Swiftearn Prime</h1>
+                            <h1 style="color: #eb6a07; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Trade Bitpay</h1>
                         </td>
                     </tr>
                 </table>
@@ -558,7 +558,7 @@ exports.signupEmailSand = async (req, res, next) =>{
     
             <div class="content">
                 <p>Hi ${UserEmail.fullName},</p>
-                <p>Welcome to Swiftearn Prime, your Number 1 online trading platform.<br><br>Your Trading account has been set up successfully.<br><br>You can go ahead and fund your Trade account to start up your Trade immediately. Deposit through Bitcoin.</p>
+                <p>Welcome to Trade Bitpay, your Number 1 online trading platform.<br><br>Your Trading account has been set up successfully.<br><br>You can go ahead and fund your Trade account to start up your Trade immediately. Deposit through Bitcoin.</p>
                 <p>For more enquiries, kindly contact your account manager or use our live chat support on our platform. You can also send a direct mail to us at <span style="color: #4c7fff;">${process.env.USER}</span></p>
                 <p>Thank you for choosing our platform. We wish you successful trading.</p>
             </div>
@@ -570,7 +570,7 @@ exports.signupEmailSand = async (req, res, next) =>{
                     </div>
                     <div class="footer-info">
                         <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                        <p>© Copyright 2024 Swiftearn Prime. All Rights Reserved.</p>
+                        <p>© Copyright 2024 Trade Bitpay. All Rights Reserved.</p>
                     </div>
                 </div>
             </div>
@@ -700,7 +700,7 @@ exports.loginEmailSand = async (req, res, next) =>{
                         <td style="padding: 10px;">
                             <div class="contact-info">
                                 <p><img src="https://i.ibb.co/JHCPcsm/Call.png" alt="" style="width: 20px;"> +1 504-332-9455</p>
-                                <p><img src="https://i.ibb.co/X8FBvY8/Container.png" alt="" style="width: 20px;"> support@Swiftearn Prime.com</p>
+                                <p><img src="https://i.ibb.co/X8FBvY8/Container.png" alt="" style="width: 20px;"> support@Trade Bitpay.com</p>
                                 <p><img src="https://i.ibb.co/1JTGL6y/loc.png" alt="" style="width: 20px;"> 18 Eastbourne Rd, United Kingdom</p>
                             </div>
                         </td>
@@ -708,7 +708,7 @@ exports.loginEmailSand = async (req, res, next) =>{
                     <tr>
                         <td style="padding: 20px 0;">
                             <img src="https://i.ibb.co/KKGS4Cw/footer-logo.png" alt="">
-                            <h1 style="color: #eb6a07; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Swiftearn Prime</h1>
+                            <h1 style="color: #eb6a07; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Trade Bitpay</h1>
                         </td>
                     </tr>
                 </table>
@@ -716,7 +716,7 @@ exports.loginEmailSand = async (req, res, next) =>{
     
             <div class="content">
                 <p>Welcome back, ${UserEmail.fullName},</p>
-                <p>You have successfully logged in to Swiftearn Prime<br><br><br><br>You can go ahead and fund your Trade account to start up your Trade immediately. Deposit through Bitcoin.</p>
+                <p>You have successfully logged in to Trade Bitpay<br><br><br><br>You can go ahead and fund your Trade account to start up your Trade immediately. Deposit through Bitcoin.</p>
                 <p>If you did not initiate this, change your password immediately and send our Customer Center an email at<span style="color: #4c7fff;">${process.env.USER}</span></p>
                 <p>Thank you for choosing our platform. We wish you successful trading.</p>
             </div>
@@ -728,7 +728,7 @@ exports.loginEmailSand = async (req, res, next) =>{
                     </div>
                     <div class="footer-info">
                         <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                        <p>© Copyright 2024 Swiftearn Prime. All Rights Reserved.</p>
+                        <p>© Copyright 2024 Trade Bitpay. All Rights Reserved.</p>
                     </div>
                 </div>
             </div>
@@ -861,7 +861,7 @@ exports.forgotPassword = async (req, res, next) => {
                                 <td style="padding: 10px;">
                                     <div class="contact-info">
                                         <p><img src="https://i.ibb.co/JHCPcsm/Call.png" alt="" style="width: 20px;"> +1 504-332-9455</p>
-                                        <p><img src="https://i.ibb.co/X8FBvY8/Container.png" alt="" style="width: 20px;"> support@Swiftearn Prime.com</p>
+                                        <p><img src="https://i.ibb.co/X8FBvY8/Container.png" alt="" style="width: 20px;"> support@Trade Bitpay.com</p>
                                         <p><img src="https://i.ibb.co/1JTGL6y/loc.png" alt="" style="width: 20px;"> 18 Eastbourne Rd, United Kingdom</p>
                                     </div>
                                 </td>
@@ -869,7 +869,7 @@ exports.forgotPassword = async (req, res, next) => {
                             <tr>
                                 <td style="padding: 20px 0;">
                                     <img src="https://i.ibb.co/KKGS4Cw/footer-logo.png" alt="">
-                                    <h1 style="color: #eb6a07; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Swiftearn Prime</h1>
+                                    <h1 style="color: #eb6a07; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Trade Bitpay</h1>
                                 </td>
                             </tr>
                         </table>
@@ -888,7 +888,7 @@ exports.forgotPassword = async (req, res, next) => {
                             </div>
                             <div class="footer-info">
                                 <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                                <p>© Copyright 2024 Swiftearn Prime. All Rights Reserved.</p>
+                                <p>© Copyright 2024 Trade Bitpay. All Rights Reserved.</p>
                             </div>
                         </div>
                     </div>
@@ -1034,7 +1034,7 @@ exports.depositEmailSend = async (req, res, next) =>{
                           <td style="padding: 10px;">
                               <div class="contact-info">
                                   <p><img src="https://i.ibb.co/JHCPcsm/Call.png" alt="" style="width: 20px;"> +1 504-332-9455</p>
-                                  <p><img src="https://i.ibb.co/X8FBvY8/Container.png" alt="" style="width: 20px;"> support@Swiftearn Prime.com</p>
+                                  <p><img src="https://i.ibb.co/X8FBvY8/Container.png" alt="" style="width: 20px;"> support@Trade Bitpay.com</p>
                                   <p><img src="https://i.ibb.co/1JTGL6y/loc.png" alt="" style="width: 20px;"> 18 Eastbourne Rd, United Kingdom</p>
                               </div>
                           </td>
@@ -1042,7 +1042,7 @@ exports.depositEmailSend = async (req, res, next) =>{
                       <tr>
                           <td style="padding: 20px 0;">
                               <img src="https://i.ibb.co/KKGS4Cw/footer-logo.png" alt="">
-                              <h1 style="color: #eb6a07; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Swiftearn Prime</h1>
+                              <h1 style="color: #eb6a07; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Trade Bitpay</h1>
                           </td>
                       </tr>
                   </table>
@@ -1062,7 +1062,7 @@ exports.depositEmailSend = async (req, res, next) =>{
                       </div>
                       <div class="footer-info">
                           <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                          <p>© Copyright 2024 Swiftearn Prime. All Rights Reserved.</p>
+                          <p>© Copyright 2024 Trade Bitpay. All Rights Reserved.</p>
                       </div>
                   </div>
               </div>
@@ -1169,7 +1169,7 @@ exports.ApproveDepositEmailSend = async (req, res, next) =>{
                           <td style="padding: 10px;">
                               <div class="contact-info">
                                   <p><img src="https://i.ibb.co/JHCPcsm/Call.png" alt="" style="width: 20px;"> +1 504-332-9455</p>
-                                  <p><img src="https://i.ibb.co/X8FBvY8/Container.png" alt="" style="width: 20px;"> support@Swiftearn Prime.com</p>
+                                  <p><img src="https://i.ibb.co/X8FBvY8/Container.png" alt="" style="width: 20px;"> support@Trade Bitpay.com</p>
                                   <p><img src="https://i.ibb.co/1JTGL6y/loc.png" alt="" style="width: 20px;"> 18 Eastbourne Rd, United Kingdom</p>
                               </div>
                           </td>
@@ -1177,7 +1177,7 @@ exports.ApproveDepositEmailSend = async (req, res, next) =>{
                       <tr>
                           <td style="padding: 20px 0;">
                               <img src="https://i.ibb.co/KKGS4Cw/footer-logo.png" alt="">
-                              <h1 style="color: #eb6a07; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Swiftearn Prime</h1>
+                              <h1 style="color: #eb6a07; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Trade Bitpay</h1>
                           </td>
                       </tr>
                   </table>
@@ -1197,7 +1197,7 @@ exports.ApproveDepositEmailSend = async (req, res, next) =>{
                       </div>
                       <div class="footer-info">
                           <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                          <p>© Copyright 2024 Swiftearn Prime. All Rights Reserved.</p>
+                          <p>© Copyright 2024 Trade Bitpay. All Rights Reserved.</p>
                       </div>
                   </div>
               </div>
@@ -1305,7 +1305,7 @@ exports.withdrawalEmailSend = async (req, res, next) =>{
                           <td style="padding: 10px;">
                               <div class="contact-info">
                                   <p><img src="https://i.ibb.co/JHCPcsm/Call.png" alt="" style="width: 20px;"> +1 504-332-9455</p>
-                                  <p><img src="https://i.ibb.co/X8FBvY8/Container.png" alt="" style="width: 20px;"> support@Swiftearn Prime.com</p>
+                                  <p><img src="https://i.ibb.co/X8FBvY8/Container.png" alt="" style="width: 20px;"> support@Trade Bitpay.com</p>
                                   <p><img src="https://i.ibb.co/1JTGL6y/loc.png" alt="" style="width: 20px;"> 18 Eastbourne Rd, United Kingdom</p>
                               </div>
                           </td>
@@ -1313,7 +1313,7 @@ exports.withdrawalEmailSend = async (req, res, next) =>{
                       <tr>
                           <td style="padding: 20px 0;">
                               <img src="https://i.ibb.co/KKGS4Cw/footer-logo.png" alt="">
-                              <h1 style="color: #eb6a07; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Swiftearn Prime</h1>
+                              <h1 style="color: #eb6a07; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Trade Bitpay</h1>
                           </td>
                       </tr>
                   </table>
@@ -1339,7 +1339,7 @@ exports.withdrawalEmailSend = async (req, res, next) =>{
                       </div>
                       <div class="footer-info">
                           <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                          <p>© Copyright 2024 Swiftearn Prime. All Rights Reserved.</p>
+                          <p>© Copyright 2024 Trade Bitpay. All Rights Reserved.</p>
                       </div>
                   </div>
               </div>
@@ -1447,7 +1447,7 @@ exports.ConfirmWithdrawalEmailSend = async (req, res, next) =>{
                           <td style="padding: 10px;">
                               <div class="contact-info">
                                   <p><img src="https://i.ibb.co/JHCPcsm/Call.png" alt="" style="width: 20px;"> +1 504-332-9455</p>
-                                  <p><img src="https://i.ibb.co/X8FBvY8/Container.png" alt="" style="width: 20px;"> support@Swiftearn Prime.com</p>
+                                  <p><img src="https://i.ibb.co/X8FBvY8/Container.png" alt="" style="width: 20px;"> support@Trade Bitpay.com</p>
                                   <p><img src="https://i.ibb.co/1JTGL6y/loc.png" alt="" style="width: 20px;"> 18 Eastbourne Rd, United Kingdom</p>
                               </div>
                           </td>
@@ -1455,7 +1455,7 @@ exports.ConfirmWithdrawalEmailSend = async (req, res, next) =>{
                       <tr>
                           <td style="padding: 20px 0;">
                               <img src="https://i.ibb.co/KKGS4Cw/footer-logo.png" alt="">
-                              <h1 style="color: #eb6a07; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Swiftearn Prime</h1>
+                              <h1 style="color: #eb6a07; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Trade Bitpay</h1>
                           </td>
                       </tr>
                   </table>
@@ -1475,7 +1475,7 @@ exports.ConfirmWithdrawalEmailSend = async (req, res, next) =>{
                       </div>
                       <div class="footer-info">
                           <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                          <p>© Copyright 2024 Swiftearn Prime. All Rights Reserved.</p>
+                          <p>© Copyright 2024 Trade Bitpay. All Rights Reserved.</p>
                       </div>
                   </div>
               </div>
